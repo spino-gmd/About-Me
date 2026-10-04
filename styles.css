@@ -1,5 +1,11 @@
-body{
+body {
     background-color: white;
+    font-family: sans-serif;
+    color: black;
+}
+
+main{
+    max-width: 1000px;
 }
 
 header {
@@ -8,6 +14,9 @@ header {
     background-color: navy;
 }
 
+#page-title {
+    font-weight: light;
+}
 header h1 {
     color: white;
     font-family: arial;
