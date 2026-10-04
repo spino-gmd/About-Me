@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-color: navy;
+}
+
+header h1 {
+    color: white;
+    font-family: arial;
+    font-size: 36px;
+}
+
+#imagem {
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+h3 {
+    color: #4C7EC1;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#jornada p {
+    font-size: 20px;
+}
+
+
+#hobbies ul {
+    font-size: 20px;
+}
+
+#metas ol {
+     font-size: 20px;
+}
+
+footer ul {
+    font-size: 15px;
+}
