@@ -14,7 +14,7 @@ main{
 header {
     text-align: center;
     color: white;
-    background-color: navy;
+    background-color: blue;
 }
 
 #page-title {
@@ -22,7 +22,8 @@ header {
 }
 header h1 {
     color: white;
-    font-family: arial;
+    font-family: 'roboto', arial, sans-serif;
+    font-weight: lighter;
     font-size: 36px;
 }
 
@@ -31,8 +32,8 @@ header h1 {
 }
 
 h2 {
-    color: blue;
-    font-family: sans-serif;
+    color: navy;
+    font-family: georgia, serif;
     font-size: 25px;
 }
 
